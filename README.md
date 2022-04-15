@@ -17,7 +17,7 @@ Layout XML files:
 > [Youtube  example](https://www.youtube.com/watch?v=ZOK6gEH8qIU)
 > 
 ### 如何使用
-作者已经使用 GitPage 部署在网上了，可以点击[这里](http://inloop.github.io/shadow4android/)直接访问，又或者下载本项目解压后本地打开 index.html 来使用
+作者已经使用 GitPage 部署在网上了，可以点击[这里](https://inloop.github.io/shadow4android/)直接访问，而 fork 过来后，生成了对应的我的 GitPage，可以点击[这里](https://enderhoshi.github.io/shadow4android/)访问，又或者下载本项目解压后本地打开 index.html 来使用
 
 ### License
     Licensed under the Apache License, Version 2.0 (the "License");
