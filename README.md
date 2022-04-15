@@ -15,6 +15,9 @@ Layout XML files:
 * [transparent shadow for photos, textures  etc.](/examples/shadow_transparent.xml?raw=true)
 
 > [Youtube  example](https://www.youtube.com/watch?v=ZOK6gEH8qIU)
+> 
+### 如何使用
+作者已经使用 GitPage 部署在网上了，可以点击[这里](http://inloop.github.io/shadow4android/)直接访问，又或者下载本项目解压后本地打开 index.html 来使用
 
 ### License
     Licensed under the Apache License, Version 2.0 (the "License");
